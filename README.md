@@ -1,4 +1,7 @@
 # cross-platform-ecommerce
+
+![image-20251208153513884](https://s2.loli.net/2025/12/08/dpc6mj7Hbr3XInl.png)
+
 learning material: https://www.youtube.com/watch?v=umcQU9iGDok&list=PLDn5_2K0bUmePOhs7TVTpn6_pLCtodBe3&index=9
 
 Hubstack Simple Auth Starter Kit
@@ -63,3 +66,8 @@ live demo: https://ecommerce-pro-web.vercel.app/
 
 tracking
 seo
+
+0. next.js crash course
+   1. https://www.youtube.com/watch?v=I1V9YWqRIeI&t=281s
+1. 搭建前端，画图
+2. 搭建后端，和前端基础ping
